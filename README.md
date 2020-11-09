@@ -24,7 +24,7 @@ https://covid-risk-analyzer-node.eu-gb.mybluemix.net/ui/#!/0?socketid=SnyG-fM8Ke
 ## Demo Video
 https://drive.google.com/file/d/1L8ykMIFcOgfQcIsnoDfz5gYqYDhNgo0y/view?usp=sharing
 
-## Prepared by Team T853:
+## Prepared by Team T853
 Cyril Shaji
 Kuriachen Sunil
 Chandichen Sunil
