@@ -22,7 +22,7 @@ We use the AI Watson Assistant to ask the participant for the following informat
 https://covid-risk-analyzer-node.eu-gb.mybluemix.net/ui/#!/0?socketid=SnyG-fM8KekV8rAPAAAi
 
 ## Demo Video
-https://drive.google.com/file/d/1L8ykMIFcOgfQcIsnoDfz5gYqYDhNgo0y/view?usp=sharing
+https://www.youtube.com/watch?v=FxsSVuUYuzc&list=PLnf9A2PCWDDTsdnbhqM3CzW4OZEoLW801&index=2&ab_channel=CyrilShaji
 
 ## Prepared by Team T853
 Cyril Shaji
