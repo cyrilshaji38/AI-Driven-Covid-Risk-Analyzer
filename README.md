@@ -1,5 +1,6 @@
 # AI-Driven-Covid-Risk-Analyzer
 IBM GRM Project
+
 Topic: How AI can solve some of the problems posed by Covid.
 
 It’s impossible to contain covid-19 without knowing who’s infected, until a safe and effective vaccine is widely available. If we combine machine learning with test pooling, large populations can be tested weekly or even daily, for as low as Rs220 to Rs370 per person. Infrequent testing (monthly seems to be the default in many proposals) or haphazard screening allow active cases to spread the virus for weeks before it’s caught. And the price is still high at around Rs1000 per test.
