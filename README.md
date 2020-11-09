@@ -18,6 +18,7 @@ We use the AI Watson Assistant to ask the participant for the following informat
 
 ## Covid Risk Analyzer Project link
 (Remember to use only locations of districts of Southern Kerala. Due to limitations of IBM Cloud Trial plan we could not outsource to locations around the entire country.)
+
 https://covid-risk-analyzer-node.eu-gb.mybluemix.net/ui/#!/0?socketid=SnyG-fM8KekV8rAPAAAi
 
 ## Demo Video
